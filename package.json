@@ -1,0 +1,12 @@
+{
+  "name": "keytar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Bjurstrom <adam.bjurstrom@torchtechnologies.com>",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "keytar": "^7.9.0"
+  }
+}
